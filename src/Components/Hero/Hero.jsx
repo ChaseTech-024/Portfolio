@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import profile_img from "../../assets/Animatedpic.jpeg";
-import heroBg from "../../assets/portimage.jpg"; // 👈 your local background image
+import heroBg from "../../assets/portimage.jpg"; // local background image
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { Link } from "react-scroll";
@@ -86,7 +86,7 @@ const Hero = () => {
         >
           I&apos;m{" "}
           <span className="bg-gradient-to-r from-[#f6d365] to-[#fda085] bg-clip-text text-transparent">
-            Isaac Okeniyi
+            Bashiru Olamide
           </span>
           , Frontend Developer.
         </h1>
@@ -95,9 +95,9 @@ const Hero = () => {
           className="max-w-2xl text-base sm:text-lg leading-relaxed text-gray-200 mt-1 px-2"
           data-aos="fade-left"
         >
-          I'm a creative web developer passionate about building modern,
-          user-friendly digital experiences that blend clean design with
-          powerful functionality.
+          I’m a creative web developer passionate about building modern, 
+          user-friendly digital solutions that blend clean design with reliable 
+          performance for great user experiences.
         </p>
 
         <div

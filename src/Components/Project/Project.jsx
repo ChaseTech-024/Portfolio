@@ -18,9 +18,9 @@ const ProjectPage = () => {
   const projects = [
     {
       id: 1,
-      title: "Voyage Travel Website",
+      title: "CognateBs Website",
       description:
-        "A modern travel and booking platform with a clean UI for exploring destinations, booking tours, and managing trips seamlessly. Built with React and Tailwind for responsiveness.",
+        "A management consulting and professional training company with a clean UI to register for courses, programmes,and book sessions seamlessly. Built with React and Tailwind for responsiveness.",
       technologies: ["React", "Tailwind CSS", "JavaScript"],
       image: voyagerpic,
       demoUrl: "#",

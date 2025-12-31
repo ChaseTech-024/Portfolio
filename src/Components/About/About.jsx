@@ -47,26 +47,26 @@ className="flex flex-col items-center gap-16 px-6 sm:px-10 lg:px-52 py-16 text-c
           {/* Bio */}
           <div className="max-w-xl text-sm sm:text-base md:text-lg leading-relaxed text-gray-300">
             <p>
-              I'm a creative and detail-oriented Web Developer with a passion for crafting responsive, user-friendly websites. I specialize in blending modern design with clean, efficient code to deliver seamless digital experiences.
-            </p>
+              I’m a creative and detail-driven Web Developer with a focus on building responsive, user-focused digital platforms. I work on combining modern design with clean, structured code to create smooth and engaging online experiences.
+            </p>  
             <p className="mt-4">
-              Whether it's building from scratch or optimizing existing platforms, I thrive on turning ideas into elegant, functional interfaces that leave a lasting impression.
+            Whether it’s developing from the ground up or improving existing systems, I enjoy turning ideas into polished, functional products that make a strong and lasting impact.
             </p>
           </div>
 
           {/* Achievements beside image */}
           <div className="flex flex-col sm:flex-row sm:flex-wrap gap-6 justify-center lg:justify-start">
             <Achievement
-              number="2+"
+              number="3+"
               label="Years of Experience"
               delay="100"
-              description="Building sleek, scalable web interfaces with modern tools and frameworks."
+              description="Creating modern, scalable digital interfaces using current development tools and frameworks."
             />
             <Achievement
               number="10+"
               label="Projects Completed"
               delay="200"
-              description="From landing pages to full-stack applications, each crafted with care."
+              description="From landing pages to full-stack software, each solution thoughtfully built with precision."
             />
             <Achievement
               number="15+"

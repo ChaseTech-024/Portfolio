@@ -16,7 +16,7 @@ const ContactPage = () => {
       name: 'WhatsApp',
       icon: MessageCircle,
       color: 'from-green-400 to-green-600',
-      action: () => window.open('https://wa.me/+2349137564913', '_blank'),
+      action: () => window.open('https://wa.me/+2349049663727', '_blank'),
       description: 'Chat with me instantly'
     },
     {
@@ -24,7 +24,7 @@ const ContactPage = () => {
       name: 'Gmail',
       icon: Mail,
       color: 'from-red-400 to-red-600',
-      action: () => window.open('mailto:okeniyiisaac20@gmail.com', '_blank'),
+      action: () => window.open('mailto:Bashirufawas024@gmail.com', '_blank'),
       description: 'Send me an email'
     },
     {
@@ -32,7 +32,7 @@ const ContactPage = () => {
       name: 'LinkedIn',
       icon: Linkedin,
       color: 'from-blue-400 to-blue-600',
-      action: () => window.open('https://www.linkedin.com/in/isaac-olusoji-11138b2b1', '_blank'),
+      action: () => window.open('https://www.linkedin.com/in/bashiru-fawas-a732a522a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app', '_blank'),
       description: 'Connect professionally'
     }
   ];
@@ -75,8 +75,8 @@ const sendMail = (e) => {
             <Sparkles className="w-8 h-8 text-white animate-spin" />
           </div>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto leading-relaxed">
-            Ready to bring your ideas to life? I'm just a message away. Choose your preferred way to reach out!
-          </p>
+            Have a project in mind? I’m only a message away. Choose any contact channel that works best for you!
+          </p>  
         </div>
 
         {/* Contact Methods Grid */}

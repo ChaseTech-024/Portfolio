@@ -31,20 +31,10 @@ const Footer = () => {
         </nav>
 
         <div className="flex justify-center items-center flex-wrap gap-6 mb-12">
-          <a 
-            href="mailto:okeniyiisaac20.email@example.com"
-            className="flex items-center gap-2 bg-slate-800 hover:bg-slate-700 px-6 py-3 rounded-full transition-all duration-300 hover:scale-105"
-            aria-label="Send email"
-          >
-            <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-              <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
-              <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
-            </svg>
-            <span className="font-medium">okeniyiisaac20.email@example.com</span>
-          </a>
+          
           
           <a 
-            href="https://www.linkedin.com/in/isaac-okeniyi-11138b2b1" 
+            href="https://www.linkedin.com/in/bashiru-fawas-a732a522a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-full transition-all duration-300 hover:scale-105"
@@ -57,7 +47,7 @@ const Footer = () => {
           </a>
           
           <a 
-            href="https://github.com/okeniyiisaac" 
+            href="https://github.com/ChaseTech-024" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-slate-800 hover:bg-slate-700 px-6 py-3 rounded-full transition-all duration-300 hover:scale-105"
@@ -70,7 +60,7 @@ const Footer = () => {
           </a>
 
           <a 
-            href="https://twitter.com/okeniyi_isaac" 
+            href="https://x.com/bashiru_ol90829?s=21" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-black hover:bg-gray-800 px-6 py-3 rounded-full transition-all duration-300 hover:scale-105"
@@ -83,7 +73,7 @@ const Footer = () => {
           </a>
 
           <a 
-            href="https://instagram.com/smiles_isaac" 
+            href="https://www.instagram.com/24_chase_?igsh=MWo1a3VtazhhcWs3aA%3D%3D&utm_source=qr" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-gradient-to-br from-purple-600 to-pink-500 hover:from-purple-700 hover:to-pink-600 px-6 py-3 rounded-full transition-all duration-300 hover:scale-105"
@@ -94,13 +84,25 @@ const Footer = () => {
             </svg>
             <span className="font-medium">Instagram</span>
           </a>
+
+            <a 
+            href="mailto:Bashirufawas024@gmail.com"
+            className="flex items-center gap-2 bg-slate-800 hover:bg-slate-700 px-6 py-3 rounded-full transition-all duration-300 hover:scale-105"
+            aria-label="Send email"
+          >
+            <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
+              <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
+            </svg>
+            <span className="font-medium">BashiruFawas024@gmail.com</span>
+          </a>
         </div>
 
         <div className="border-t border-slate-800"> 
           <div className="max-w-7xl mx-auto px-6 py-3"> 
             <div className="flex flex-col md:flex-row justify-between items-center gap-2">
               <p className="text-slate-400 mb-6 text-sm">
-                © {new Date().getFullYear()} Isaac Okeniyi. All rights reserved.
+                © {new Date().getFullYear()} Bashiru Olamide. All rights reserved.
               </p>
               <div className="flex items-center gap-2 text-slate-400 text-sm">
                 <span></span>
